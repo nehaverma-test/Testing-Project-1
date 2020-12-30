@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-30T13:17:34 IST" name="Surefire suite" finished-at="2020-12-30T13:17:44 IST" duration-ms="10022">
+    <groups>
+    </groups>
+    <test started-at="2020-12-30T13:17:34 IST" name="Surefire test" finished-at="2020-12-30T13:17:44 IST" duration-ms="10022">
+      <class name="kineo.LmsProject.AppTest">
+        <test-method signature="fun1()[pri:0, instance:kineo.LmsProject.AppTest@6ae5aa72]" started-at="2020-12-30T13:17:34 IST" name="fun1" finished-at="2020-12-30T13:17:44 IST" duration-ms="9899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun1 -->
+      </class> <!-- kineo.LmsProject.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
